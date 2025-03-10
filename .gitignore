@@ -1,0 +1,17 @@
+# Ignore system files and Windows directories
+AppData/
+Documents/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Cookies/
+Desktop/
+*.log
+*.cache
+__pycache__/
+venv/
+.dbus-keyrings/
